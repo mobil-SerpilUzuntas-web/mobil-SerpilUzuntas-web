@@ -1,13 +1,7 @@
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
-
-
-
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231FA820&title_bg=%23555555&icon=mariadbfoundation.svg&icon_color=%235F85D7&title=Profile+Views+web-SerpilUzuntas-mobil&edge_flat=false" align="right"/></a>
+<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231FA820&title_bg=%23555555&icon=mariadbfoundation.svg&icon_color=%235F85D7&title=Profile+Views+web-SerpilUzuntas-mobil&edge_flat=false" align="right"/></a> -->
 <br>
 
 <div align="center" >
